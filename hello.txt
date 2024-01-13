@@ -4,6 +4,8 @@ My name is Luigi and I’m data Analyst / Scientist for a company in Geneve.
 I’ve studied Physics and always work with Data,Data analysis,Data Visualization and a little of data science.
 The aim is to reinforce my knowledge in ML algorithm as well as Python language.
 
+The Domain I work for is the Watchmaking industry ,so it will be interesting to explore possible ML solution in that domain.
+
 
 Regard,
 
